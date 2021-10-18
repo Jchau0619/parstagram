@@ -22,6 +22,7 @@
 		EABA20402716263400291D9B /* FeedViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EABA203F2716263400291D9B /* FeedViewController.swift */; };
 		EABA2042271664EB00291D9B /* CameraViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EABA2041271664EB00291D9B /* CameraViewController.swift */; };
 		EABA20442716765D00291D9B /* postCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = EABA20432716765D00291D9B /* postCell.swift */; };
+		EABA205C271CEC1500291D9B /* CommentCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = EABA205B271CEC1500291D9B /* CommentCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -67,6 +68,7 @@
 		EABA203F2716263400291D9B /* FeedViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeedViewController.swift; sourceTree = "<group>"; };
 		EABA2041271664EB00291D9B /* CameraViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CameraViewController.swift; sourceTree = "<group>"; };
 		EABA20432716765D00291D9B /* postCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = postCell.swift; sourceTree = "<group>"; };
+		EABA205B271CEC1500291D9B /* CommentCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CommentCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -155,6 +157,7 @@
 				EABA203F2716263400291D9B /* FeedViewController.swift */,
 				EABA2041271664EB00291D9B /* CameraViewController.swift */,
 				EABA20432716765D00291D9B /* postCell.swift */,
+				EABA205B271CEC1500291D9B /* CommentCell.swift */,
 			);
 			path = parstagram;
 			sourceTree = "<group>";
@@ -421,6 +424,7 @@
 				EABA200E2716090300291D9B /* AppDelegate.swift in Sources */,
 				EABA20402716263400291D9B /* FeedViewController.swift in Sources */,
 				EABA20102716090300291D9B /* SceneDelegate.swift in Sources */,
+				EABA205C271CEC1500291D9B /* CommentCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
